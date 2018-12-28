@@ -1,1 +1,1 @@
-"C:\Program Files\LOVE\love.exe" "C:\Users\gilfr\Desktop\Programming BullShit\Test"
+"C:\Program Files\LOVE\love.exe" "..\Bat_Game"
